@@ -37,13 +37,12 @@ Here as an example, Karen submitted a complaint about the entire banking system 
 <p>
 <a href="https://imgbox.com/EcXWNYpG" target="_blank"><img src="https://thumbs2.imgbox.com/43/b1/EcXWNYpG_t.png" alt="image host"/></a></p>
 <p>
-Here we have the ticket coming in through the agents side from Karen and ready for it to be solved. Notice the priority levrl is normal, they come in that by default. The agent is able to prioritize the tickets in order of urgency. </p>
+Here we have the ticket coming in through the agents side from Karen and ready for it to be solved. Notice the priority level is normal, they come in that way by default. The agent is able to prioritize the tickets in order of urgency. </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://imgbox.com/YPlqtcZc" target="_blank"><img src="https://thumbs2.imgbox.com/4e/41/YPlqtcZc_t.png" alt="image host"/></a></p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The agent in osticket has the option of editing the urgency of the ticket by clicking on the ticket and editing whatever information that is needed. This includes urgency and to whom the ticket is assigned.
 </p>
 <br />
