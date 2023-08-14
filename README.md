@@ -46,3 +46,5 @@ Here we have the ticket coming in through the agents side from Karen and ready f
 The agent in osticket has the option of editing the urgency of the ticket by clicking on the ticket and editing whatever information that is needed. This includes urgency and to whom the ticket is assigned.
 </p>
 <br />
+<a href="https://imgbox.com/5mLL1r3b" target="_blank"><img src="https://thumbs2.imgbox.com/fa/36/5mLL1r3b_t.png" alt="image host"/></a>
+<p>Using the thread feature in OSticket, The agent can follow the progress of each ticket and then the eventual closing of the ticket. </p>
